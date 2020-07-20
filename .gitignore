@@ -1,0 +1,6 @@
+.idea
+.idea/*
+.byebug_history
+
+.bundle
+vendor
